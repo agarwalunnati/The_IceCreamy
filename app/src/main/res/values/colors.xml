@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimary2">#FF5733</color> <!-- Vibrant Orange -->
+    <color name="colorPrimaryDark">#C44200</color> <!-- Darker Orange -->
+
+    <!-- Text Colors -->
+    <color name="textColorPrimary">#000000</color> <!-- Black Text -->
+    <color name="textColorSecondary">#333333</color> <!-- Dark Gray Text -->
+
+    <!-- Background Colors -->
+    <color name="backgroundColor">#FFFFFF</color> <!-- White Background -->
+
+    <!-- Button Colors -->
+    <color name="buttonBackgroundColor">#FF5733</color> <!-- Vibrant Orange Button -->
+</resources>
+
+
